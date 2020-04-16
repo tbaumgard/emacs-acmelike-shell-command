@@ -26,7 +26,7 @@ To invoke these commands in a similar way to how it's done in Acme, simply bind 
 (global-set-key (kbd "<mouse-4>") 'async-shell-command-region)
 ```
 
-With one or more of those bindings in place, it can be useful to put commands, say `build-project.sh`, into an [Org Mode](http://orgmode.org/) or other project file to run a frequently used command from Emacs at the click of your mouse.
+With one or more of those bindings in place, it can be useful to put commands, say `build-project.sh`, into an [Org Mode](https://orgmode.org/) or other project file to run a frequently used command from Emacs at the click of your mouse.
 
 ## Screenshots
 
