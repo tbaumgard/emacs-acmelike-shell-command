@@ -38,4 +38,4 @@ With one or more of those bindings in place, it can be useful to put commands, s
 
 ## License
 
-&copy; 2014, 2017 Tim Baumgard. These functions are licensed under [GPL v3.0](https://www.gnu.org/licenses/gpl-3.0-standalone.html).
+&copy; 2014, 2017, 2020 Tim Baumgard. These functions are licensed under [GPL v3.0](https://www.gnu.org/licenses/gpl-3.0-standalone.html).

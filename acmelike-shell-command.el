@@ -1,6 +1,6 @@
 ;;; acmelike-shell-command.el --- Acme-like additions for shell-command
 
-;; Copyright 2014, 2017 Tim Baumgard
+;; Copyright 2014, 2017, 2020 Tim Baumgard
 
 ;;; License
 
